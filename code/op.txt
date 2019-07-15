@@ -1,0 +1,12 @@
+April,40
+August,20
+December,1090
+Feb,200
+Jan,400
+July,40
+June,1000
+March,200
+May,80
+November,934
+October,134
+September,1368
