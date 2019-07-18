@@ -1,0 +1,13 @@
+Jan,100
+Jan,100
+Jan,100
+Jan,100
+April,50
+April,50
+September,456
+August,20
+December,545
+October,134
+September,456
+September,456
+December,545

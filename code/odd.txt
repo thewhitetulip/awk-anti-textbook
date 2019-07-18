@@ -1,0 +1,13 @@
+month,sales
+Feb,200
+March,100
+March,100
+May,900
+April,50
+April,50
+June,1000
+July,10
+July,10
+July,10
+July,10
+November,934
