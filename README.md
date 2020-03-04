@@ -2,7 +2,7 @@
 
 |Source | Read online | Watch  | Download | Code | Donate |
 | ----| ---- | ---- | ------ | ------ | ------ |
-|[Github](https://github.com/thewhitetulip/awk-anti-textbook/)| [Gitbooks ](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)| [YouTube series](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4) | [leanpub](https://leanpub.com/antitextbookGo) | [Tasks](http://github.com/thewhitetulip/Tasks) | [ ![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/sapatil)|
+|Github | Gitbooks| [YouTube series](https://www.youtube.com/playlist?list=PL41psiCma00wgiTKkAZwJiwtLTdcyEyc4) | leanpub | [Tasks](http://github.com/thewhitetulip/Tasks) | [ ![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/sapatil)|
 
 ## What is this?
 This is an easy to understand example based tutorial aimed at those who know nothing of awk.
