@@ -2,7 +2,7 @@
 
 |Source | Read online | Watch  | Download | Code | Donate |
 | ----| ---- | ---- | ------ | ------ | ------ |
-|Github | [Gitbooks](https://benkoshy.gitbook.io/awk) | YouTube series | leanpub | Tasks | [ ![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/sapatil)|
+|Github | [Gitbooks](https://thewhitetulip.gitbook.io/awk/) | YouTube series | leanpub | Tasks | [ ![Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/sapatil)|
 
 ## What is this?
 This is an easy to understand example based tutorial aimed at those who know nothing of awk.
